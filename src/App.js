@@ -9,6 +9,7 @@ import "@aws-amplify/ui-react/styles.css";
 Amplify.configure(awsExports);
 
 function App() {
+  // changes
   return (
     <div className="App">
       <header>
